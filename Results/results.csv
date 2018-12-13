@@ -1,0 +1,8 @@
+Regressor,Accuray_1,Accuray_2,Accuray_3,time
+ElasticNet,91.31,9.76,42.73,0.247
+GradientBoostingRegressor,93.1,13.77,62.06,52.47
+RandomForestRegressor,93.53,34.86,61.97,3.36
+MLPRegressor,93.53,34.83,61.97,31.27
+TF_3_LayerNN,86.37,12.69,62.07,208.17
+SGDRegressor,91.78,0.0,0.0,3.42
+XGBoost,94.30,30.17,65.37,1.57
